@@ -1,10 +1,25 @@
-<div align="center">
+<p align="center">
     <img src="./demo/Logo.png" width="250px" />
-</div>
+</p>
 
-<h2 align="center">Plataforma para as pessoas poderem ouvir seu podcast</h2>
+<h2 align="center">	
+   <a href="https://www.linkedin.com/in/jo%C3%A3oo-vitor" target="blank">
+      <img alt="João Vitor" src="https://img.shields.io/badge/-João Vitor-8257E5?style=flat&logo=Linkedin&logoColor=white" />
+   </a>
 
-<h3 align="center"> Criada com o Next.js</h3>
+  <a href="https://nextlevelweek.com/episodios/omnistack/edicao/2">
+    <img src="https://img.shields.io/badge/Podcastr-NLW 5.0-8257E5?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
+  </a>
+  <a href="https://github.com/Joaoo1/podcastr/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Joaoo1/podcastr?color=8257F5">
+  </a> 
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-8257E5">
+</h2>
+
+
+<h3 align="center">Plataforma para as pessoas poderem ouvir seu podcast</h3>
+
+<h4 align="center"> Criada com Next.js</h4>
 
 ## Projeto
 
