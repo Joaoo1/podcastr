@@ -10,8 +10,11 @@
   <a href="https://nextlevelweek.com/episodios/omnistack/edicao/2">
     <img src="https://img.shields.io/badge/Podcastr-NLW 5.0-8257E5?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
   </a>
-  <a href="https://github.com/Joaoo1/podcastr/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Joaoo1/podcastr?color=8257F5">
+    <a href="https://pt-br.reactjs.org">
+    <img alt="React" src="https://img.shields.io/badge/React-%23575757.svg?logo=react&logoColor=%2361DAFB">
+  </a> 
+  <a href="https://nextjs.org/">
+    <img alt="NextJS" src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white">
   </a> 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-8257E5">
 </h2>
